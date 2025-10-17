@@ -1,3 +1,82 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Abstract architectural lines for the hero background",
+      "imageUrl": "https://picsum.photos/seed/hero-bg/1920/1080",
+      "imageHint": "architecture abstract"
+    },
+    {
+      "id": "about-team",
+      "description": "A modern office setting with a team collaborating",
+      "imageUrl": "https://picsum.photos/seed/about/800/600",
+      "imageHint": "office team"
+    },
+    {
+      "id": "portfolio-1",
+      "description": "Screenshot of a modern real estate website on a laptop",
+      "imageUrl": "https://picsum.photos/seed/p1/600/400",
+      "imageHint": "website laptop"
+    },
+    {
+      "id": "portfolio-2",
+      "description": "A sleek property listing page design",
+      "imageUrl": "https://picsum.photos/seed/p2/600/400",
+      "imageHint": "property listing"
+    },
+    {
+      "id": "portfolio-3",
+      "description": "Mobile view of a realtor's personal brand website",
+      "imageUrl": "https://picsum.photos/seed/p3/600/400",
+      "imageHint": "mobile website"
+    },
+    {
+      "id": "portfolio-4",
+      "description": "Dashboard for a real estate analytics platform",
+      "imageUrl": "https://picsum.photos/seed/p4/600/400",
+      "imageHint": "analytics dashboard"
+    },
+    {
+      "id": "testimonial-1-avatar",
+      "description": "Professional headshot of a satisfied client",
+      "imageUrl": "https://picsum.photos/seed/t1/100/100",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "testimonial-2-avatar",
+      "description": "Another professional headshot of a happy client",
+      "imageUrl": "https://picsum.photos/seed/t2/100/100",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "blog-1",
+      "description": "An image representing SEO and digital marketing concepts",
+      "imageUrl": "https://picsum.photos/seed/b1/600/400",
+      "imageHint": "digital marketing"
+    },
+    {
+      "id": "blog-2",
+      "description": "Image related to social media marketing for real estate",
+      "imageUrl": "https://picsum.photos/seed/b2/600/400",
+      "imageHint": "social media"
+    },
+    {
+      "id": "blog-3",
+      "description": "Conceptual image about website conversion funnels",
+      "imageUrl": "https://picsum.photos/seed/b3/600/400",
+      "imageHint": "conversion funnel"
+    },
+    {
+      "id": "case-study-1",
+      "description": "Image representing growth and success for a case study",
+      "imageUrl": "https://picsum.photos/seed/cs1/1200/600",
+      "imageHint": "growth chart"
+    },
+    {
+      "id": "case-study-2",
+      "description": "Image of a luxury property for a real estate case study",
+      "imageUrl": "https://picsum.photos/seed/cs2/1200/600",
+      "imageHint": "luxury home"
+    }
+  ]
 }
